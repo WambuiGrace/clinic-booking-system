@@ -17,8 +17,7 @@ This project provides a comprehensive SQL database schema for a clinic booking s
    - Run the script to create the database, tables, insert dummy data, create indexes, and views.
 
    ```sql
-   -- Example using MySQL command line:
-   mysql -u your_username -p < clinic-booking.sql
+   mysql -u <your_username> -p < clinic.sql
    ```
 
 4. **Verify the Setup**
@@ -28,7 +27,7 @@ This project provides a comprehensive SQL database schema for a clinic booking s
 
 You can view the ERD for this project here:
 
-[Clinic Booking System ERD (SVG)](clinic-booking.svg)
+[Clinic Booking System ERD (SVG)](clinic.svg)
 
 ---
 **Note:**  
